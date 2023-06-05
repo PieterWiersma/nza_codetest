@@ -3,14 +3,6 @@ from operator import methodcaller
 
 from zeep import Client
 
-# result = client.service.ConvertSpeed(
-#     100, 'kilometersPerhour', 'milesPerhour')
-
-# assert result == 62.137
-
-
-
-
 
 def read_soap(instruction: dict):
     """
