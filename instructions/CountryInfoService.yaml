@@ -1,0 +1,10 @@
+
+adress: http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+endpoint: ListOfCountryNamesByName
+dataset_table: countries
+fields:
+  - sISOCode
+  - sName
+columns:
+  - isocode
+  - name
