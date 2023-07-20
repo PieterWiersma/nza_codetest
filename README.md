@@ -13,7 +13,7 @@ database=codetest
 host=localhost
 ```
 
-Run `poetry install` from `codetest/.` to install dependencies.
+Run `poetry install` from main directory to install dependencies.
 
 Run package by `poetry run python codetest/main.py` from `codetest/.`
 *there was a weird bug in running it as a package.
